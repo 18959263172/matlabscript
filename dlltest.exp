@@ -1,0 +1,8 @@
+dlltest.dll
+_dlltestGetMcrID		_dlltestGetMcrID
+_dlltestInitialize		_dlltestInitialize
+_dlltestInitializeWithHandlers		_dlltestInitializeWithHandlers
+_dlltestPrintStackTrace		_dlltestPrintStackTrace
+_dlltestTerminate		_dlltestTerminate
+_mlfSd		_mlfSd
+_mlxSd		_mlxSd

@@ -1,0 +1,16 @@
+x=0:2047;
+
+y=1000*sin(pi*200*x);
+
+figure(1);
+
+subplot(2,1,1);
+
+plot(x,y);
+
+%subplot(2,1,2);plot(F,z);xlabel('频率(Hz)');ylabel('幅度(dB)');title('原始信号xr频谱');
+
+%z=fft(y);
+
+
+
